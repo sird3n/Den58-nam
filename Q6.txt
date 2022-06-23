@@ -1,0 +1,56 @@
+PRINT ALL EVEN NUMBERS FROM 1-100:
+FOR LOOP
+public class HelloWorld{
+
+     public static void main(String []args){
+         
+
+         for(int count=1; count<100; count++){
+             
+             if(count%2== 0){
+                 System.out.println(count);
+             }else{
+                 System.out.println("");
+             }
+         }
+         
+     }
+}
+
+DO-WHILE LOOP
+public class HelloWorld{
+
+     public static void main(String []args){
+         
+         int count = 1;
+
+         do {
+             
+             if(count%2 == 0){
+                 System.out.println(count);
+             }
+             else{
+                 System.out.println("");
+             }
+             count++;
+         }while(count<=100);
+     }
+}
+
+TO PRINT ALL ODD NUMBERS FROM 1-100:
+public class HelloWorld{
+
+     public static void main(String []args){
+         
+         int count = 1;
+         int evenNo;
+
+         do {
+             evenNo = count*2 +1;
+             if(evenNo < 100){
+                 System.out.println(evenNo);
+             }
+             count++;
+         }while(count<=100);
+     }
+}
