@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Den58-nam
-- 👀 I’m interested in android game development and data scienc. 
-- 🌱 I’m currently learning Java and Python.
+- 👋 Hi, I’m Ihemba Simon
+- 👀 I’m interested in data science. 
+- 🌱 I’m currently a sophomore informatics student.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me isimonden@gmai.com
 
